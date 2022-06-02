@@ -1,0 +1,22 @@
+﻿  computational-geometry-n-computer-graphics.cpp
+C:\Users\f18ra\source\repos\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics.cpp(209,35): warning C4267: =: преобразование из "size_t" в "_Ty1"; возможна потеря данных
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\f18ra\source\repos\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics.cpp(210,37): warning C4267: =: преобразование из "size_t" в "_Ty2"; возможна потеря данных
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\f18ra\source\repos\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics.cpp(327,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\f18ra\source\repos\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics.cpp(330,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\f18ra\source\repos\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics.cpp(332,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\f18ra\source\repos\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics.cpp(333,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\f18ra\source\repos\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics.cpp(346,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\f18ra\source\repos\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics.cpp(356,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\f18ra\source\repos\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics.cpp(359,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\f18ra\source\repos\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics.cpp(365,60): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+C:\Users\f18ra\source\repos\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics.cpp(369,60): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+C:\Users\f18ra\source\repos\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics\computational-geometry-n-computer-graphics.cpp(382,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  computational-geometry-n-computer-graphics.vcxproj -> C:\Users\f18ra\source\repos\computational-geometry-n-computer-graphics\x64\Debug\computational-geometry-n-computer-graphics.exe
